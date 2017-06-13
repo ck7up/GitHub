@@ -1,3 +1,1 @@
-<?php 
-
-?>
+Ici il ya aura du php
